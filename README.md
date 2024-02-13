@@ -1,0 +1,2 @@
+# Adjusting-the-brightness
+ADJUSTING THE BRIGHTNESS USING THE ANALOG PIN
